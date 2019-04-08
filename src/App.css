@@ -11,17 +11,15 @@
 }
 
 .App button {
-  background-color: #6DB65B;
+  background-color: #FAE042;
   color: white;
   border: none;
-  font-size: 1.25em;
 }
 
 .App button:hover {
   background-color: #FAE042;
   color: #008f68;
   border: none;
-  font-size: 1.25em;
 }
 
 .App form {
@@ -31,4 +29,13 @@
 
 h1, h2 {
   text-align: center;
+}
+
+.additional-info {
+  margin-left: 1em;
+}
+
+.dark-yellow {
+  color: #EFBB35;
+  font-weight: 600;
 }

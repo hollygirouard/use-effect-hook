@@ -1,9 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 import ClassBasedComponent from './components/Class-Based-Component';
+// import FunctionBasedComponent from './components/FunctionBasedComponent';
 import Logo from './assets/alligator-logo2.svg';
 import './App.css';
 
-class App extends Component {
+class App extends React.Component {
   render() {
     return (
       <div className="App">
